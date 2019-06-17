@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="Appium Test with AI " verbose="1">
+
+    <test name="Sample Appium AI Test">
+
+        <classes>
+
+            <class name="TestAppiumAI"/>
+
+        </classes>
+    </test>
+
+</suite>

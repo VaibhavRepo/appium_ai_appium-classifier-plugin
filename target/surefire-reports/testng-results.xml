@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAppiumAI" duration-ms="26583" started-at="2019-06-17T18:46:18Z" finished-at="2019-06-17T18:46:44Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="26583" started-at="2019-06-17T18:46:18Z" finished-at="2019-06-17T18:46:44Z">
+      <class name="TestAppiumAI">
+        <test-method status="PASS" signature="installTest()[pri:0, instance:TestAppiumAI@6108b2d7]" name="installTest" duration-ms="26572" started-at="2019-06-18T00:16:18Z" finished-at="2019-06-18T00:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- installTest -->
+      </class> <!-- TestAppiumAI -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestAppiumAI -->
+</testng-results>
